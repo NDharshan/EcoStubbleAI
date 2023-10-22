@@ -22,6 +22,7 @@ We built EcoStubbleAI using a powerful stack of technologies. Python served as t
 
 ### Sample-1
 ![img-1](https://github.com/NDharshan/EcoStubbleAI/assets/98468801/10348be5-e0e6-4da3-b7a9-663088cb7a96)
+#### Dimensions
 Length: 18.09 cm
 Width: 75.75757575757575 cm
 Volume: 6880.50 square cm
@@ -29,6 +30,7 @@ Volume: 6880.50 square cm
 
 ### Sample-2
 ![img-2](https://github.com/NDharshan/EcoStubbleAI/assets/98468801/aed7c550-eba0-4763-b871-1b8bbdda4927)
+#### Dimensions
 Length: 49.20 cm
 Width: 60.096153846153854 cm
 Volume: 2055.50 cubic cm
@@ -36,6 +38,7 @@ Volume: 2055.50 cubic cm
 
 ### Sample-3
 ![img-3](https://github.com/NDharshan/EcoStubbleAI/assets/98468801/600788da-ddbd-43c3-b3a8-a6e38ac1916c)
+#### Dimensions
 Length: 145.78 cm
 Width: 183.8235294117647 cm
 Volume: 840.00 square cm
