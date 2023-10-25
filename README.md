@@ -58,15 +58,16 @@ The next phase for EcoStubbleAI involves scaling our impact. We aim to expand ou
 
 ## The Team
 ### Manoj Hegde
-
+https://github.com/ManojIHegde
 
 ### Manvitha MP
-
+https://github.com/manvitha19
 
 ### N. Dharshan
-
+https://github.com/NDharshan
 
 ### Rohan Kabadi
-
+https://github.com/rohankbd
 
 ### Vaishnavi MN
+https://github.com/Vaishnavi108
