@@ -1,6 +1,3 @@
-HI DARSHAN
-
-
 # EcoStubbleAI GAT19
 EcoStubbleAI is an innovative project addressing the critical issue of stubble burning in the Delhi and Punjab regions, leading to harmful smog and environmental concerns. Our solution harnesses the power of AI to provide an efficient and cost-effective method for stubble disposal. By analyzing grain and field data, we generate comprehensive reports on stubble volume and quality, enabling optimized disposal strategies. Our goal is to deliver this resource to power generation firms, promoting electricity generation and sustainable paper production while keeping environmental impact in check. Join us in our mission to combat smog, improve air quality, and contribute to a greener, healthier future.
 
